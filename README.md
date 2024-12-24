@@ -2,13 +2,13 @@
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
 
-                                          - 🔭 I’m currently working on **Flutter**
-                                          
-                                          - 🌱 I’m currently learning **Flutter, Dart, Firebase**
-                                          
-                                          - 📫 How to reach me **hkeskin@gmail.com**
-                                          
-                                          - ⚡ Fun fact **I think I am funny**
+- 🔭 I’m currently working on **Flutter**
+
+- 🌱 I’m currently learning **Flutter, Dart, Firebase**
+
+- 📫 How to reach me **hkeskin@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
