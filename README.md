@@ -1,4 +1,3 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stimulusco.com%2Fblog%2Fflutter-app-development-is-best-for-crossplatform-app-development%2F&psig=AOvVaw25jmrF2ZgKm8OTqz1gJ1gb&ust=1735131774183000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODW4tu7wIoDFQAAAAAdAAAAABAK)
 <h1 align="center">Hi 👋, I'm Halil İbrahim KESKİN</h1>
 <h3 align="center">A passionate mobil developer from Türkiye</h3>
 
@@ -22,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=halilkeskin16&show_icons=true&locale=en&layout=compact" alt="halilkeskin16" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=halilkeskin16&show_icons=true&locale=en" alt="halilkeskin16" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=halilkeskin16&" alt="halilkeskin16" /></p>
